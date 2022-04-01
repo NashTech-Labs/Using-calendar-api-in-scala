@@ -1,4 +1,4 @@
-#Calendar-API in Scala
+# Calendar-API in Scala
 
 The Google Calendar API is a RESTful API that can be accessed through explicit HTTP calls or via the Google Client Libraries. The API exposes most of the features available in the Google Calendar Web interface.
 
